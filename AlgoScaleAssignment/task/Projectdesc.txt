@@ -1,0 +1,47 @@
+PROJECT NAME : 
+
+ALGOSCALE
+
+DESCRIPTION : 
+
+
+
+In this project we basically visualise the stock prices of various companies based on available data and calculate the probability of Loss/Gain based on that.
+Each company(stock) is assigned a ticker value which is basically a word of four five letter and is similar to its short form.
+
+ 
+
+This project basically contains two main parts.
+
+
+1. Stocks
+
+
+2. Portfolio
+
+ And there are two tables in which we have our data,
+
+
+1. LossGainGraph Table
+
+
+2. GeneralNumber 
+
+Table
+
+
+PAGES : 
+
+
+
+1. Stocks : In Stocks we basically visualise the values of a stock and the probability of Loss/Gain in form of a chart. The charts are formed based on the data of LossGainGraph Table. In this page we can only visualise the chart of one ticker(one stock) at a time. The Table which is formed below is made by the data based on GeneralNumber Table.
+
+
+TOOLS :
+
+The specific tools used to plot the charts is a library. 
+
+Here's the link down below : 
+https://gionkunz.github.io/chartist-js/
+
+
